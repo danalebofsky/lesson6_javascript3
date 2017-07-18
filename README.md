@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 18, 2017
 
 ### Student Name:  
-(First and Last Name)
+Dana Lebofsky
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment's purpose was to create a photo gallery that allows users to navigate through the images.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://danalebofsky.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to add/remove document nodes.
+2. In this lesson, I learned what a Browser object model (BOM) is and how it functions.
+3. In this lesson, I learned how to manipulate the broswer with the 'window' object.
